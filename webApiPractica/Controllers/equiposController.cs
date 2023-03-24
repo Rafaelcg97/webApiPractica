@@ -115,6 +115,7 @@ namespace webApiPractica.Controllers
 
             return Ok(equipo);
         }
+
         
     }
 }
